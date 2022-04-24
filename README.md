@@ -1,7 +1,7 @@
-Monero Node
+Monero Tor Node
 ===========
 
-A role to deploy a monero mining node.
+A role to deploy a monero mining node with tor.
 
 Requirements
 ------------
